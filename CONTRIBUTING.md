@@ -16,6 +16,7 @@ To get started with contributing, please follow these steps:
 
 We follow a specific code style in this project. Please make sure to adhere to the following guidelines:
 
+- Read the last section in [README](README.md)
 - Follow the naming conventions for variables, functions, and classes.
 - Write clear and concise comments to explain your code. I personally recommend using GitHub copilot's `/doc` 
 
@@ -23,12 +24,8 @@ We follow a specific code style in this project. Please make sure to adhere to t
 
 If you encounter any bugs, issues, or have suggestions for improvements, please open an issue on the GitHub repository. Provide as much detail as possible, including steps to reproduce the issue and any relevant code snippets.
 
-## License
-
-By contributing to [Your Library Name], you agree that your contributions will be licensed under the [LICENSE](link-to-license-file) of the project.
-
 ## Contact
 
-If you have any questions or need further assistance, feel free to reach out to us at [email@example.com].
+If you have any questions or need further assistance, feel free to reach out@ [Fahd's Twitter](https://twitter.com/fahddevv).
 
-Happy coding!
+All blessings to you for trying to be a contributor in the Open Source Community.. much Love <3

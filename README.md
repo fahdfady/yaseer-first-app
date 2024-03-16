@@ -26,7 +26,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any questions or feedback, please reach out @ [Fahd's Twitter](https://twitter.com/fahddevv).
 
-
 ## What does the starter app's index.ts do?
 
 This TypeScript code is a simple web application that uses the yaseer library to create and manage HTML elements and their interactions.
